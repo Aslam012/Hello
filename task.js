@@ -101,6 +101,6 @@ for(let i=0; i<object.length;i++){
     sub.push(object[i].name)
 }
 console.log(temp);
-console.log(sub);
+// console.log(sub);
 
 
